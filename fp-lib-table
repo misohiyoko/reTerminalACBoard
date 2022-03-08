@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "CSE185L")(type "KiCad")(uri "${KIPRJMOD}/libs/CSE185L.pretty")(options "")(descr ""))
+  (lib (name "locallib")(type "KiCad")(uri "${KIPRJMOD}/libs/locallib.pretty")(options "")(descr ""))
+)
